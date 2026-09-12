@@ -1,78 +1,100 @@
-# 👋 Hi, I’m @yogixlogic formarly @smilesyogi
+# Hi, I'm Yogesh 👋
 
-🚀 I'm a passionate Full Stack Developer with 2+ years of experience building scalable, high-performance web applications. I believe in using technology as a tool to simplify lives, transform businesses, and contribute to positive change in society.
+### Full-Stack Developer | .NET Core • Angular • SQL Server • Azure
 
-💻 Currently working at **Cognizant Technology Solutions** on enterprise modernization projects using .NET Core, Angular, and Azure DevOps. I focus on developing clean, reusable, and optimized code with a balance of backend logic and intuitive frontend design.
+I'm a Full-Stack Developer at **Cognizant**, building scalable enterprise applications with **.NET Core, C#, Angular, SQL Server, and Azure DevOps**.
 
----
+I enjoy transforming complex requirements into clean, reliable software—combining robust backend development with intuitive frontend experiences. I'm also expanding my knowledge of cloud-native development, Docker, Kubernetes, and artificial intelligence.
 
-## 💼 Professional Summary
-
-- Strong expertise in **.NET Core**, **C#**, **Web API**, **Angular (14-18)**, and **SQL Server**
-- Hands-on with **Azure Cloud**, **Entity Framework Core**, **Material UI**, and **RESTful APIs**
-- Experienced in **Agile (Scrum/Kanban)** environments and DevOps tools like **GitHub**, **Swagger**, **Postman**, and **Azure DevOps**
-- Learning Docker & Kubernetes to enhance my cloud-native development skills
-- Committed to writing clean, testable code and following **SOLID** principles and **Design Patterns**
+Previously known on GitHub as **@smilesyogi**.
 
 ---
 
-## 🌟 Key Projects
+## 🛠️ Technical Skills
 
-### 🔷 WiSE – Enterprise Application Modernization
-- Spearheaded .NET API development reducing query times by 25%
-- Revamped UI using Angular + Material, improving UX by 15%
-- Integrated CI/CD pipelines via Azure DevOps
-- Recognized with **Player of the Month – Oct 2024** for impact and performance
+**Backend:** C#, .NET Core, ASP.NET Core, Web API, Entity Framework Core  
+**Frontend:** Angular 14–18, TypeScript, JavaScript, HTML, CSS, Angular Material  
+**Database:** SQL Server, MongoDB  
+**Cloud & DevOps:** Azure, Azure DevOps, CI/CD, GitHub  
+**Tools:** Git, Swagger, Postman  
+**Practices:** REST APIs, Agile, Scrum, Kanban, SOLID principles, design patterns  
+**Currently learning:** Docker and Kubernetes
 
-### 🔷 Agile Project Management Portal
-- Created a microservices-based task management tool with .NET & Angular
-- Optimized SQL procedures for smooth backend data handling
-- Delivered responsive UI to enhance team collaboration and sprint tracking
+---
 
-### 🔷 Career Building Analyzer (Final Year Project)
-- Developed ML-powered web app using ReactJS, Python, and MongoDB
-- Integrated KNN, Logistic & Linear Regression for predictive career guidance
-- Designed goal trackers and institute suggestion engine using analytics
+## 💼 Professional Experience
 
-### 🔷 Age and Gender Detection System
-- Real-time CNN using Python & OpenCV with 85% accuracy
-- Built an end-to-end POC with scalable inference pipeline for camera feeds
+### Full-Stack Developer — Cognizant Technology Solutions
+
+- Develop and modernize enterprise applications using .NET Core and Angular
+- Build reusable APIs and responsive user interfaces
+- Optimize application and database performance
+- Support automated build and deployment workflows using Azure DevOps
+- Collaborate with cross-functional teams in Agile environments
+- Recognized as **Player of the Month — October 2024**
+
+---
+
+## 🚀 Selected Projects
+
+### WiSE — Enterprise Application Modernization
+
+- Developed .NET APIs and optimized database queries
+- Modernized the user interface using Angular and Angular Material
+- Supported continuous integration and deployment through Azure DevOps
+
+### Agile Project Management Portal
+
+- Built a task-management application using .NET and Angular
+- Optimized SQL procedures for efficient data processing
+- Developed responsive features for sprint tracking and team collaboration
+
+### Career Building Analyzer
+
+- Developed an ML-powered web application using React, Python, and MongoDB
+- Applied KNN, logistic regression, and linear regression models
+- Created goal-tracking and institute-recommendation features
+
+### Age and Gender Detection System
+
+- Built a real-time detection proof of concept using Python, OpenCV, and CNNs
+- Achieved approximately 85% model accuracy
+- Created an inference workflow for processing camera feeds
 
 ---
 
 ## 📜 Certifications
 
-- ✔️ C# .NET Core 8 with MS SQL (Udemy)
-- ✔️ Angular & ASP.NET Core REST API – Real World Projects (Udemy)
-- ✔️ Microsoft SQL Server Masterclass (Udemy)
-- ✔️ AI + ChatGPT Executive Briefing (Udemy)
+- C# and .NET 8 with Microsoft SQL Server — Udemy
+- Angular and ASP.NET Core REST API: Real-World Projects — Udemy
+- Microsoft SQL Server Masterclass — Udemy
+- AI and ChatGPT Executive Briefing — Udemy
 
 ---
 
 ## 🎓 Education
 
-**B.E. in Computer Engineering (AI & ML)**  
-Dr. D. Y. Patil Institute of Technology, Pune – *Graduated August 2022*  
-CGPA: 8.21/10
+**Bachelor of Engineering in Computer Engineering (AI & ML)**  
+Dr. D. Y. Patil Institute of Technology, Pimpri, Pune  
+Graduated: August 2022 | CGPA: 8.21/10
 
 ---
 
-## 🤝 Let’s Collaborate
+## 🤝 Interests
 
-I'm open to working on:
-- 🚀 Tech-for-good initiatives
-- 💼 Business automation tools
-- 🤖 ML/AI-based real-world applications
-- 🧠 Growth-focused side projects
+I'm interested in collaborating on:
 
----
-
-## 📫 How to reach me
-
-📧 Email: [chandewar.yogesh@gmail.com](mailto:chandewar.yogesh@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/yogeshchan](https://www.linkedin.com/in/yogeshchan)  
-💻 GitHub: [github.com/yogixlogic](https://github.com/yogixlogic)  
+- Technology-for-good initiatives
+- Business automation tools
+- Practical AI and machine-learning applications
+- Cloud-native and full-stack projects
 
 ---
 
-🌱 *Let’s build technology that makes lives better — consciously and creatively.*
+## 📫 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/yogeshchan) • [GitHub](https://github.com/yogixlogic) • [Email](mailto:chandewar.yogesh@gmail.com)
+
+---
+
+*Let's build technology that makes people's lives better—consciously and creatively.*
