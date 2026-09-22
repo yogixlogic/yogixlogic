@@ -18,7 +18,7 @@ Previously known on GitHub as **@smilesyogi**.
 **Cloud & DevOps:** Azure, Azure DevOps, CI/CD, GitHub  
 **Tools:** Git, Swagger, Postman  
 **Practices:** REST APIs, Agile, Scrum, Kanban, SOLID principles, design patterns  
-**Currently learning:** Docker and Kubernetes
+**Currently exploring:** Docker and Kubernetes
 
 ---
 
@@ -33,7 +33,13 @@ Previously known on GitHub as **@smilesyogi**.
 - Collaborate with cross-functional teams in Agile environments
 - Recognized as **Player of the Month — October 2024**
 
----
+## 🌱 Open-Source Contributions
+
+### Orchard Core
+
+- Improved Media Library selection and hover states across light and dark themes.
+- Tested the UI locally and updated the generated frontend assets.
+- [View merged PR #19872](https://github.com/OrchardCMS/OrchardCore/pull/19872)
 
 ## 🚀 Selected Projects
 
